@@ -22,4 +22,12 @@ On recommence le processus en segmente chaque fois sur 2 l'intervalle ou quelle 
 
 2.  Principe de la méthode de point fixe
 
-Le principe de cette méthode consiste à transformer l’équation f(x) = 0 en une équation équivalente g(x) = x . Le point α est alors un point fixe de g. Approcher les zéros de f revient à approcher les points fixes de g. Le choix de la fonction g est motivé par les exigences du théorème de point fixe. En effet, elle doit être contractante dans un voisinage I de α, ce qui revient à vérifier que : $|g_0(x)| &lt; 1$ sur ce voisinage
+Le principe de cette méthode consiste à transformer l’équation f(x) = 0 en une équation équivalente g(x) = x . Le point α est alors un point fixe de g. Approcher les zéros de f revient à approcher les points fixes de g. Le choix de la fonction g est motivé par les exigences du théorème de point fixe. En effet, elle doit être contractante dans un voisinage I de α, ce qui revient à vérifier que : |g'(x)| <1 sur ce voisinage
+
+
+3.  Principe de la méthode de newton
+
+la méthode de newton c'est un cas particulier de méthode de point fixe  dont la fonction g(x) est bien défini a partir de l'equation de tangente .
+L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
+
+On part d'un point x0 de l'intervalle de définition de f, et on considère la tangente à la courbe représentative de f en (x0,f(x0)). Soit x1 l'abscisse de l'intersection de la tangente avec l'axe des abscisses. Puisque la tangente est proche de la courbe, on peut espérer que x1 donne une meilleure estimation d'une solution de l'équation f(x)=0 que x0. 
