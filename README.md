@@ -8,7 +8,7 @@
 * la méthode de Newton
 
 ## Partie Théorique
-1.  Principe de la méthode de dichotomie ( ou bisection ) :
+1.  __Principe de la méthode de dichotomie ( ou bisection )__ :
 Considérons une fonction f continue sur un intervalle [a,b]. On suppose que f admet une et une seule racine α dans ]a, b[ et que f(a)*f(b)<0.
 On note x=(a+b)/2le milieu de l'intervale [a,b]
 
@@ -20,12 +20,12 @@ On note x=(a+b)/2le milieu de l'intervale [a,b]
       
 On recommence le processus en segmente chaque fois sur 2 l'intervalle ou quelle la racine est appartient jusqu'a avoir une valeur approcher sur l'intervalle adéquat.
 
-2.  Principe de la méthode de point fixe
+2.  __Principe de la méthode de point fixe__
 
 Le principe de cette méthode consiste à transformer l’équation f(x) = 0 en une équation équivalente g(x) = x . Le point α est alors un point fixe de g. Approcher les zéros de f revient à approcher les points fixes de g. Le choix de la fonction g est motivé par les exigences du théorème de point fixe. En effet, elle doit être contractante dans un voisinage I de α, ce qui revient à vérifier que : |g'(x)| <1 sur ce voisinage
 
 
-3.  Principe de la méthode de newton
+3.  __Principe de la méthode de newton__
 
 la méthode de newton c'est un cas particulier de méthode de point fixe  dont la fonction g(x) est bien défini a partir de l'equation de tangente .
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
