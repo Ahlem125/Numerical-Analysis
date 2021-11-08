@@ -10,3 +10,4 @@
 ## Partie Théorique
 1.  Principe de la méthode de dichotomie ( ou bisection ) :
 Considérons une fonction f continue sur un intervalle [a,b]. On suppose que f admet une et une seule racine α dans ]a, b[ et que f(a)*f(b)<0.
+On note $x=(a+b)/2$ le milieu de l'intervale [a,b]
