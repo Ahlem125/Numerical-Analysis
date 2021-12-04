@@ -14,6 +14,7 @@ Le polynôme d’interpolation de Lagrange P(x) est le polynôme unique d’ordr
 
 <img src="https://render.githubusercontent.com/render/math?math=L_{0}(x)=\displaystyle\frac{(x-x_1)(x-x_2)\ldots(x-x_{n})}{(x_0-x_1)(x_0-x_2)\ldots(x_0-x_{n})}">
 
+
 et 
 
 
