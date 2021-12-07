@@ -9,6 +9,7 @@
 - [Requirements](#requirements)
 - [TP1][TP1]
 - [TP2][TP2]
+- [TP3][TP3]
 
 
 
@@ -26,5 +27,6 @@
 [oct]: https://www.gnu.org/software/octave/index
 [TP1]: https://github.com/Ahlem125/Numerical-Analysis/tree/main/TP1
 [TP2]: https://github.com/Ahlem125/Numerical-Analysis/tree/main/TP2
+[TP3]: https://github.com/Ahlem125/Numerical-Analysis/tree/main/TP3
 
 
