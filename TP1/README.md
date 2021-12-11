@@ -32,3 +32,4 @@ L'idée est de remplacer la courbe représentative de la fonction par sa tangent
 On part d'un point x0 de l'intervalle de définition de f, et on considère la tangente à la courbe représentative de f en (x0,f(x0)). Soit x1 l'abscisse de l'intersection de la tangente avec l'axe des abscisses. Puisque la tangente est proche de la courbe, on peut espérer que x1 donne une meilleure estimation d'une solution de l'équation f(x)=0 que x0.
 
 
+
