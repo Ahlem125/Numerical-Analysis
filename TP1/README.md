@@ -1,4 +1,4 @@
-# Numerical-Analysis
+# Les méthodes itératif 
 ## Introduction chapitre 1
  les solutions de l’´equation f(x) = 0  et f(α)=0, α est un zéro de f Le calcul de telle α n'est pas facile en générale analytiqument.C'est pourquoiqs, on a recours à des méthodes iteratives Pour approcher telle α.  L’id´ee g´en´erale est de contruire une suite (xn) qui converge vers
 
@@ -31,5 +31,16 @@ la méthode de newton c'est un cas particulier de méthode de point fixe  dont l
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 On part d'un point x0 de l'intervalle de définition de f, et on considère la tangente à la courbe représentative de f en (x0,f(x0)). Soit x1 l'abscisse de l'intersection de la tangente avec l'axe des abscisses. Puisque la tangente est proche de la courbe, on peut espérer que x1 donne une meilleure estimation d'une solution de l'équation f(x)=0 que x0.
 
+## Conclusion Générale 
+> Pour comparer ces méthodes il faut tenir compte de la présence de ces différente aspect:
+- Assure de la convergence
+- vitesse de la convergence
+- La précision 
+- effcacité des calculs(ex:nombre d'opération)
+### Tableau comparatif des méthodes :
 
-
+| Dicotomie                 | Point fixe                      | Newton                              |
+|---------------------------|---------------------------------|-------------------------------------|
+| Lente                     | Rapide                          | Rapide                              |
+| convergente               | convergence local ou divergence | convergence local                   |
+| orde de convergence est 1 | dépend des dérivé               | ordre de convergence est au moins 2 |
