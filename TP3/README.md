@@ -15,3 +15,6 @@ son éfficacité est indiqué par  son ordre .
 * Méthode de trapéze
 * Méthode de point milieu
 * Méthode de rectangle
+
+
+![Alt Text](demo.gif)
