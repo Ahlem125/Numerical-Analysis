@@ -1,4 +1,4 @@
-> Ce répertoire contient les différents TP d'analyse numériques  accompagné chaqu'une par un fichier readme
+> Ce répertoire contient les différents TP d'analyse numériques  accompagné chaqu'un par un fichier README et quelque remarque et analyse dans le contenu des fichiers.
 # Numerical-Analysis
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ahlem125/Numerical-Analysis/main)
 
